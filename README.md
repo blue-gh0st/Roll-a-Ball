@@ -3,15 +3,16 @@ A 3d Unity game.
 
 
 # Build
-1. Download the directory for your OS
-2. Open th directory
-3. # Linux:
-4. Double-click on the `Roll-a-ball.x86_64`
-5. # MacBook:
-6. Go to Smash-a-Ball.app
-7. Go to Contents
-8. Go to MacOS
-9. Double-click the Roll a Ball file
+1. Go to the master branch.
+2. Download the directory for your OS
+3. Open th directory
+4. # Linux:
+5. Double-click on the `Roll-a-ball.x86_64`
+6. # MacBook:
+7. Go to Smash-a-Ball.app
+8. Go to Contents
+9. Go to MacOS
+10. Double-click the Roll a Ball file
 
 ## Changelog:
 # 1.0.0
